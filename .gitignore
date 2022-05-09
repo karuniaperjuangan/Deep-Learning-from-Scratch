@@ -12,6 +12,9 @@ build/
 develop-eggs/
 dist/
 downloads/
+Dataset/
+checkpoints/
+gender-classifier-ugm/
 eggs/
 .eggs/
 lib/
